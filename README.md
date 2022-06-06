@@ -3,15 +3,25 @@ Baidyutik, a digital currency that enables instant payments to anyone, anywhere 
 
 # Baidyutik Specification	
 Crypto Name:	Baidyutik
+
 Ticker:	 BDT
+
 Blockchain:	Baidyutik Block-chain
+
 Consensus:	Proof of Work (POW)
+
 Algorithm:	ETHASH
+
 Mineable: Yes (CPU,GPU,FPGA,ASIC)
+
 Total Supply:	200,000,000 BDT
+
 Block Time:	10 Seconds
+
 Pre-mined:	For Project and system development (Not for trading)
+
 Website:	Coming Soon.
+
 Source:	https://github.com/baidyutik/BaidyutikCoin
 
 # Explorer
@@ -19,18 +29,25 @@ Coming Soon.
 
 # Wallet(Core/Lightweight/Mobile)	
 Linux:	Metamask.
+
 MacOS:	Metamask.
+
 Windows:	 Metamask.
+
 Web Wallet:	Coming Soon.
+
 Paper Wallet:	Coming Soon.
+
 Mobile Wallet (Android/iOS):	Metamask.
 
 # Mining Pool	
-Mining Pool URL 1:	Coming Soon.
+Mining Pool:	Coming Soon.
 
 # Community	
 Twitter:	https://twitter.com/baidyutik
+
 Facebook:	https://facebook.com/baidyutik
+
 Telegram:	https://t.me/baidyutik
 
 # Exchange	
