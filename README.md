@@ -13,7 +13,9 @@ Block Time:	10 Seconds
 Pre-mined:	For Project and system development (Not for trading)
 Website:	Coming Soon.
 Source:	https://github.com/baidyutik/BaidyutikCoin
-Explorer 1:	Coming Soon.
+
+# Explorer
+Coming Soon.
 
 # Wallet(Core/Lightweight/Mobile)	
 Linux:	Metamask.
