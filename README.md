@@ -14,11 +14,11 @@ Algorithm:	ETHASH
 
 Mineable: Yes (CPU,GPU,FPGA,ASIC)
 
-Total Supply:	200,000,000 BDT
+Total Supply:	1,000,000 BDT
 
 Block Time:	10 Seconds
 
-Pre-mined:	For Project and system development (Not for trading)
+Pre-mined:	520 BDT
 
 Website:	Coming Soon.
 
